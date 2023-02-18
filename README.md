@@ -20,3 +20,7 @@ In this notebook, we will analyze data from diamonds.csv, a free public dataset 
 ## Task3.ipynb
 
 In this notebook, we will analyze data from 22-23_games.csv, a free public dataset containing information about the games scheduled for the 2022-2023 season of the National Hockey League (NHL).  This dataset is made available by www.hockey-reference.com
+
+## BonusTask.ipynb
+
+In this notebook, we will analyze text from an article published on nhl.com using the wordcloud Python library.
